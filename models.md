@@ -25,7 +25,7 @@ I *do not* think our tools are very good for positivist scientific hypothesis
 testing, or at least not now at this point in the history of the social
 sciences. Mosty this is because our laboratory is always changing. Even if we
 bring subjects into a lab for more careful testing, once we announce our
-findings, those subjects are likely to change their behavior! There will always
+findings those subjects are likely to change their behavior! There will always
 (at least for quite some time) be dispute about what's the "right" theory,
 because there will always be opportunity to identify new circumstances under
 which a different theory applies. That said, I do believe it's important to
