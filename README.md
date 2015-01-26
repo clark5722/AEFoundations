@@ -41,9 +41,9 @@ analysis, writing, and presentation.
    analytic, computing, data processing, version control, and publishing
    tools.
 
-#### [Course Outline and Readings](./course_outline.html)
+#### [Course Outline and Readings](./course_outline.md)
 
-#### [Schedule](./schedule.html)
+#### [Schedule](./schedule.md)
 
 #### Assignments and Grading
 
@@ -59,5 +59,5 @@ presentation. There will be no exams.
 
 #### Miscellaneous
 
-- [Tools and tips](./tools_tips.html)
-- [A note about economic models](./models.html)
+- [Tools and tips](./tools_tips.md)
+- [A note about economic models](./models.md)
