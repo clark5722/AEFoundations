@@ -41,9 +41,9 @@ analysis, writing, and presentation.
    analytic, computing, data processing, version control, and publishing
    tools.
 
-#### [Course Outline and Readings](http://bhueth.github.io/AEFoundations/course_outline.html)
+#### [Course Outline and Readings](./course_outline.html)
 
-#### [Schedule](http://bhueth.github.io/AEFoundations/schedule.html)
+#### [Schedule](./schedule.html)
 
 #### Assignments and Grading
 
@@ -59,5 +59,5 @@ presentation. There will be no exams.
 
 #### Miscellaneous
 
-- [Tools and tips](http://bhueth.github.io/AEFoundations/tools_tips.html)
-- [A note about economic models](http://bhueth.github.io/AEFoundations/models.html)
+- [Tools and tips](./tools_tips.html)
+- [A note about economic models](./models.html)
